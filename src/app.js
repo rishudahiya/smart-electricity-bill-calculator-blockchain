@@ -182,7 +182,7 @@ App = {
       var energyCharges = units * 7;
       $("#energyCharges").html(energyCharges);
 
-      var additionalCharges = 22;
+      var additionalCharges = energyCharges * 0.12;
       $("#additionalCharges").html(additionalCharges);
 
       var netBill = energyCharges + additionalCharges;
