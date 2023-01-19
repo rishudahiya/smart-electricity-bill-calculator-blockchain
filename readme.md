@@ -54,3 +54,29 @@ truffle deploy --reset
 ```
 npm run dev
 ```
+
+## Application
+
+### Homepage 
+![alt text](ScreenShots\1.png)
+
+![](ScreenShots\2.png)
+
+### Registration 
+![alt text](ScreenShots\3.png)
+![alt text](ScreenShots\4.png)
+![alt text](ScreenShots\5.png)
+
+### Bill Generation 
+![alt text](ScreenShots\6.png)
+
+### Generated Bill
+![alt text](ScreenShots\7.png)
+### Printing Bill
+![alt text](ScreenShots\8.jpg)
+### Transactions in Ganache
+![alt text](ScreenShots\9.jpg)
+
+
+
+
