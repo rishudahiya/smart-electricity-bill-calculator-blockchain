@@ -24,6 +24,33 @@ This project aims to create a decentralized and transparent system for calculati
 
 - **Payment gateway:** A payment gateway will be integrated into the system to allow customers to easily pay their bills using cryptocurrency or other digital assets.
 
-## Conclusion
+## Requirements
 
-The implementation of a smart electricity bill calculator on the blockchain will bring many benefits to both customers and utilities, including decentralization, transparency, real-time billing, and tamper-proof transactions. It is a step towards a more efficient and secure energy system.
+- Node.js
+- Metamask Extention
+- Ganache
+- Truffle
+
+
+### 1. First Run
+
+```
+npm install
+```
+
+### 2. Run all truffle commands:
+
+```
+truffle init
+truffle compile
+truffle deploy --reset
+```
+
+### 3. Run Ganache and update the truffle-config.js file with port number
+
+
+### 4. Run the app with
+
+```
+npm run dev
+```
