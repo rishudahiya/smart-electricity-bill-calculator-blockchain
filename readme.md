@@ -66,7 +66,7 @@ npm run dev
 
 ### Registration 
 <img src="https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/3.png" width="600" height="300">
-<img src="https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/4.png" width="600" height="300">
+<img src="https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/4.png" width="400" height="300">
 <img src="https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/5.png" width="600" height="300">
 <!-- ![alt text](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/3.png)
 ![alt text](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/4.png)
