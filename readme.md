@@ -58,7 +58,7 @@ npm run dev
 ## Application
 
 ### Homepage 
-<img src="https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/1.png" width="600" height="600">
+<img src="https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/1.png" width="1000" height="500">
 <!-- ![alt text](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/1.png) -->
 
 ![](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/2.png)
