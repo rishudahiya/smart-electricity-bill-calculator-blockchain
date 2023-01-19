@@ -75,6 +75,7 @@ npm run dev
 ### Printing Bill
 <img src="https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/8.jpg">
 
+
 ### Transactions in Ganache
 <img src="https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/9.jpg">
 
