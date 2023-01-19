@@ -58,24 +58,24 @@ npm run dev
 ## Application
 
 ### Homepage 
-![alt text](screenshots\1.png)
+![alt text](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/1.png)
 
-![](screenshots\2.png)
+![](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/2.png)
 
 ### Registration 
-![alt text](screenshots\3.png)
-![alt text](screenshots\4.png)
-![alt text](screenshots\5.png)
+![alt text](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/3.png)
+![alt text](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/4.png)
+![alt text](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/5.png)
 
 ### Bill Generation 
-![alt text](screenshots\6.png)
+![alt text](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/6.png)
 
 ### Generated Bill
-![alt text](screenshots\7.png)
+![alt text](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/7.png)
 ### Printing Bill
-![alt text](screenshots\8.jpg)
+![alt text](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/8.jpg)
 ### Transactions in Ganache
-![alt text](screenshots\9.jpg)
+![alt text](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/9.jpg)
 
 
 
