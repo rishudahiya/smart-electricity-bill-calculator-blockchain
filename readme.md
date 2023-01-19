@@ -61,22 +61,30 @@ npm run dev
 <img src="https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/1.png" width="600" height="300">
 <!-- ![alt text](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/1.png) -->
 
-![](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/2.png)
+<img src="https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/2.png" width="600" height="300">
+<!-- ![](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/2.png) -->
 
 ### Registration 
-![alt text](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/3.png)
+<img src="https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/3.png" width="600" height="300">
+<img src="https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/4.png" width="600" height="300">
+<img src="https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/5.png" width="600" height="300">
+<!-- ![alt text](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/3.png)
 ![alt text](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/4.png)
-![alt text](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/5.png)
+![alt text](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/5.png) -->
 
 ### Bill Generation 
-![alt text](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/6.png)
+<img src="https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/6.png" width="600" height="300">
+<!-- ![alt text](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/6.png) -->
 
 ### Generated Bill
-![alt text](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/7.png)
+<img src="https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/7.png" width="600" height="300">
+<!-- ![alt text](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/7.png) -->
 ### Printing Bill
-![alt text](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/8.jpg)
+<img src="https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/8.jpg" width="600" height="300">
+<!-- ![alt text](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/8.jpg) -->
 ### Transactions in Ganache
-![alt text](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/9.jpg)
+<img src="https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/9.jpg" width="600" height="300">
+<!-- ![alt text](https://github.com/rishudahiya/smart-electricity-bill-calculator-blockchain/blob/main/screenshots/9.jpg) -->
 
 
 
